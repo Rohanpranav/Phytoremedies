@@ -1,2 +1,1 @@
-# Phytoremedies
-Ancient Cure for Animal Care
+This repository contains code that was recovered after I lost access to my previous GitHub account. Due to this, I was inactive for a few months. Unfortunately, I couldn’t retrieve the complete project structure, so the available code has been consolidated into a single HTML file. I’m currently working on rebuilding and organizing everything properly.
